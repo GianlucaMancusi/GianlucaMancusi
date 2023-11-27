@@ -1,16 +1,20 @@
-### Hi there 👋
+# Gianluca Mancusi, PhD Student at UNIMORE
 
-<!--
-**GianlucaMancusi/GianlucaMancusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a PhD student at UNIMORE with a passion for creating and improving technology, particularly in the realms of Video Game Development 🎮, Computer Vision 👁️, and Computer Graphics 👾.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Research Focus
+
+🔭 **Research Areas:**
+   - Multiple Object Tracking
+   - Monocular per-target Distance Estimation
+   - 3D object detection
+   - Tracking Any Point
+   - Additional interesting topics of Computer Vision
+
+## Contact Information
+
+📫 **How to Reach Me:**
+   - Email: <name>.<lastname>@unimore.it
+   - LinkedIn: [Gianluca Mancusi](https://www.linkedin.com/in/gianluca-mancusi/)
