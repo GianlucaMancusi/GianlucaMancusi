@@ -18,3 +18,4 @@ I am a PhD student at UNIMORE with a passion for creating and improving technolo
 📫 **How to Reach Me:**
    - Email: "name"."lastname"@unimore.it
    - LinkedIn: [Gianluca Mancusi](https://www.linkedin.com/in/gianluca-mancusi/)
+   - Website: [www.gianlucamancusi.com](https://www.gianlucamancusi.com)
