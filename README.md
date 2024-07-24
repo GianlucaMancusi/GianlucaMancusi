@@ -10,7 +10,7 @@ I am a PhD student at UNIMORE with a passion for creating and improving technolo
    - Multiple Object Tracking
    - Monocular per-target Distance Estimation
    - 3D object detection
-   - Tracking Any Point
+   - Modular Deep Learning, Parameter Efficient Fine-tuning
    - Additional interesting topics of Computer Vision
 
 ## Contact Information
